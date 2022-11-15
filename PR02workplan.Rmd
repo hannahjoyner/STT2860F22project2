@@ -1,7 +1,7 @@
 ---
 title: "Group Work Plan"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Kate Metzger, Hannah Joyner, and Jordan Klein"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,18 +12,14 @@ output:
 
 **Work Plan/Assignments**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR COMPLETING THE PROJECT WORK
-
-INCLUDE WHO WILL BE RESPONSIBLE FOR COMPLETING WORK, UPLOADING DOCUMENTS, ETC.
-
-YOU SHOULD ALSO HAVE A PLAN FOR CHECKING ONE ANOTHER'S WORK IF YOU SPLIT IT UP
+We will all work on the same parts of the project together. We will not split it up. This way we will collaborate on all parts of the project to ensure quality work. 
 
 **Completion Timeline**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLANNED TIMELINE FOR TASK COMLETION
+Our plan is to complete our project in class like our last project. We are following the same timeline and method to complete project 2 and if we need we will communicate on how to work on certain sections outside of class.
 
 **Communication Plan**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR EFFECTIVE GROUP COMMUNICATION
+We have each others phone numbers and we are prepared to group text to collaborate if need be; however, we plan to do most of our communicating in class face to face. 
 
 ***

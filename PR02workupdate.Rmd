@@ -1,7 +1,7 @@
 ---
 title: "Group Project Update"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Kate Metzger, Hannah Joyner, and Jordan Klein"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -14,18 +14,18 @@ output:
 
 Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Nothing has changed, we have continued to work together on every part to ensure everything is done correctly through collaboration. 
 
 **Completion Timeline Update**
 
 Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+We are on track with how much we have completed, we are looking to finish it all by the end of class on Thursday. 
 
 **Communication Update**
 
 Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Be honest! Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Everyone has been very communicative and we have all worked together very well. Everyone has input on each graph. We have not had to collaborate outside of class yet. 
 
 ***
